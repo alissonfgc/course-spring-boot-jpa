@@ -2,6 +2,8 @@
 
 Projeto parte do curso de java da devsuperior.
 
+> Projeto Back-end
+
 ## Feito com
 
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
